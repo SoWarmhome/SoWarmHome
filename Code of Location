@@ -1,0 +1,159 @@
+type: picture-elements
+elements:
+  - type: state-icon
+    entity: switch.dhkg01_cloud_758626
+    style:
+      top: 45%
+      left: 15%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_230321_switch_2
+    style:
+      top: 65%
+      left: 24%
+    icon: null
+  - type: state-icon
+    entity: switch.dhkg01_cloud_534924
+    style:
+      top: 25%
+      left: 45%
+    icon: null
+  - type: state-icon
+    entity: switch.201ml_cloud_441115
+    style:
+      top: 53%
+      left: 45%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_230321
+    style:
+      top: 30%
+      left: 21%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_230321_switch_3
+    style:
+      top: 52%
+      left: 23%
+    icon: null
+  - type: state-icon
+    entity: light.wy0c08_cloud_997017
+    style:
+      top: 60%
+      left: 35%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_778840
+    style:
+      top: 52%
+      left: 35%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_778840_switch_2
+    style:
+      top: 28%
+      left: 35%
+    icon: null
+  - type: state-icon
+    entity: light.mhcw01_cloud_550470
+    style:
+      top: 35%
+      left: 35%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_229378
+    style:
+      top: 60%
+      left: 16%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_229378_switch_2
+    style:
+      top: 75%
+      left: 16%
+    icon: null
+  - type: state-icon
+    entity: switch.203ml_cloud_229378_switch_3
+    style:
+      top: 70%
+      left: 11%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_779382
+    style:
+      top: 79%
+      left: 23%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_779382_switch_2
+    style:
+      top: 85%
+      left: 16%
+    icon: null
+  - type: state-icon
+    entity: switch.kg03hl_cloud_675554_switch_3
+    style:
+      top: 48%
+      left: 80%
+    icon: null
+  - type: state-icon
+    entity: light.wy0c08_cloud_481585
+    style:
+      top: 55%
+      left: 80%
+    icon: null
+  - type: state-icon
+    entity: switch.kg03hl_cloud_675554
+    style:
+      top: 78%
+      left: 64%
+    icon: null
+  - type: state-icon
+    entity: switch.kg03hl_cloud_675554_switch_2
+    style:
+      top: 62%
+      left: 68%
+    icon: null
+  - type: state-icon
+    entity: light.wy0c08_cloud_215956
+    style:
+      top: 28%
+      left: 73%
+    icon: null
+  - type: state-icon
+    entity: light.jmlmp2_cloud_517261
+    style:
+      top: 28%
+      left: 60%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_224844
+    style:
+      top: 45%
+      left: 50%
+    icon: null
+  - type: state-icon
+    entity: switch.202ml_cloud_224844_switch_2
+    style:
+      top: 45%
+      left: 70%
+    icon: null
+  - type: state-icon
+    entity: light.wy0b01_cloud_173838
+    style:
+      top: 45%
+      left: 65%
+    icon: null
+  - type: state-icon
+    entity: switch.kg03hl_cloud_675554
+    style:
+      top: 78%
+      left: 56%
+    icon: null
+  - type: state-icon
+    entity: switch.kg03hl_cloud_675554_switch_2
+    style:
+      top: 60%
+      left: 54%
+    icon: null
+image: https://raw.githubusercontent.com/SoWarmhome/SoWarmHome/main/FloorPlan.png
