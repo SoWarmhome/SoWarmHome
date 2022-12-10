@@ -1,10 +1,11 @@
 {
 
-  "data":[
+  "data":[{"2E":"https://data.etabus.gov.hk/v1/transport/kmb/eta/6638A31332E98C83/2E/1"},
+    {"11":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/11/1"},
+    {"14":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/14/1"},
+    {"16":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/26/1"}]
+  
 
-{"2E":"https://data.etabus.gov.hk/v1/transport/kmb/eta/6638A31332E98C83/2E/1"},
-{"11":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/11/1"},
-{"14":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/14/1"},
-{"26":"https://data.etabus.gov.hk/v1/transport/kmb/eta/DF4F6B54816F5172/26/1"}]
 
-}
+
+         }
